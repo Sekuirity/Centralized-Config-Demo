@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ns.microservices.customerservice.CustomerServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 82.593 s - in com.ns.microservices.customerservice.CustomerServiceApplicationTests
